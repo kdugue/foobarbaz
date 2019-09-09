@@ -13,7 +13,7 @@ responsible for remembering the next element.
 Though there are various types of linked lists, however, this post will cover the implementation of
 a singly linked list in JavaScript. This type of linked list is unidirectional - each node has a pointer only to the next node.
 
-The main methods for singly linked list are:
+The main methods for singly linked list are:s
 
 - Append: adding elements to the linked list
 - Remove: removing elements from the linked list
