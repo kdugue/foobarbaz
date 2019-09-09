@@ -135,7 +135,7 @@ const carMakes = ["Honda", "Mercedes", "Porsche", "Jeep", "Tesla"];
 carMakes.unshift("Hyundai");
 
 //carMakes is now
-// ["Hyundai", "Honda", "Mercedes", "Porsche", "Jeep", "Tesla"];
+// ["Hyundai", "Honda", "Mercedes", "Porsche", "Jeep", "Tesla"]
 ```
 
 Time complexity: O(n). Since arrays are ordered, when an element is added to the array,
